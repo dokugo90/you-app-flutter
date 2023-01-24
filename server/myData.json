@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Emily",
+    "age": 23,
+    "image": "https://picsum.photos/200",
+    "email": "emily_23@example.com",
+    "bio": "I am a outgoing person who loves to travel and try new things. In my free time, I enjoy hiking and photography. I am also a big fan of live music and attend concerts regularly."
+  },
+  {
+    "name": "Michael",
+    "age": 35,
+    "image": "https://picsum.photos/201",
+    "email": "michael_35@example.com",
+    "bio":"I am a family man who values the time spent with my loved ones. I am also a passionate cook and enjoy experimenting with new recipes. In my free time, I like to read and play sports."
+  },
+  {
+    "name": "Jessica",
+    "age": 42,
+    "image": "https://picsum.photos/202",
+    "email": "jessica_42@example.com",
+    "bio":"I am a creative person who loves art, music and literature. I enjoy expressing myself through painting and writing. In my free time, I like to dance and attend cultural events."
+  },
+  {
+    "name": "Jacob",
+    "age": 18,
+    "image": "https://picsum.photos/203",
+    "email": "jacob_18@example.com",
+    "bio":"I am a student who is passionate about technology and programming. I also enjoy playing video games and watching movies. I am an active member of my school's robotics club."
+  },
+  {
+    "name": "Matthew",
+    "age": 29,
+    "image": "https://picsum.photos/204",
+    "email": "matthew_29@example.com",
+    "bio":"I am a fitness enthusiast who values a healthy lifestyle. I enjoy working out and playing sports. I am also a nature lover and enjoy hiking and camping in my free time."
+  },
+  {
+    "name": "Amanda",
+    "age": 31,
+    "image": "https://picsum.photos/205",
+    "email": "amanda_31@example.com",
+    "bio":"I am a teacher who is passionate about education and making a difference in the lives of children. In my free time, I enjoy reading and spending time with my family and friends."
+  },
+  {
+    "name": "Nicholas",
+    "age": 25,
+    "image": "https://picsum.photos/206",
+    "email": "nicholas_25@example.com",
+    "bio":"I am a business professional who values hard work and determination. I enjoy networking and building professional relationships. In my free time, I like to play golf and attend networking events."
+  },
+  {
+    "name": "Ashley",
+    "age": 22,
+    "image": "https://picsum.photos/207",
+    "email": "ashley_22@example.com",
+    "bio":"I am a recent college graduate who is passionate about sustainability and environmental conservation. I enjoy volunteering and taking part in community projects. In my free time, I like to read and learn about new developments in the field."
+  },
+  {
+    "name": "Brandon",
+    "age": 19,
+    "image": "https://picsum.photos/208",
+    "email": "brandon_19@example.com",
+    "bio":"I am a athlete who loves to play sports and stay active. In my free time, I enjoy playing basketball and hanging out with friends. I am also a big fan of music and enjoy listening to various genres."
+  },
+  {
+    "name": "Stephanie",
+    "age": 26,
+    "image": "https://picsum.photos/209",
+    "email": "stephanie_26@example.com",
+    "bio":"I am a nurse who is passionate about healthcare and helping others. I enjoy volunteering and learning about new developments in the medical field. In my free time, I like to read and spend time with my family."
+  },
+  {
+    "name": "Jonathan",
+    "age": 32,
+    "image": "https://picsum.photos/210",
+    "email": "jonathan_32@example.com",
+    "bio":"I am a software developer who enjoys working with technology and solving problems. I am passionate about learning new programming languages and staying up to date with the latest technologies. In my free time, I like to play video games and read science fiction novels."
+  },
+  {
+    "name": "Emily",
+    "age": 37,
+    "image": "https://picsum.photos/211",
+    "email": "emily_37@example.com",
+    "bio":"I am a designer who values creativity and innovation. I enjoy working on projects that push the boundaries of design and try new things. In my free time, I like to sketch and attend art shows."
+  },
+  {
+    "name": "Joshua",
+    "age": 41,
+    "image": "https://picsum.photos/212",
+    "email": "joshua_41@example.com",
+    "bio":"I am an accountant who is dedicated to helping businesses grow and thrive. I enjoy analyzing data and solving complex financial problems. In my free time, I like to read and learn about new developments in the field."
+  },
+  {
+    "name": "Andrew",
+    "age": 30,
+    "image": "https://picsum.photos/213",
+    "email": "andrew_30@example.com",
+    "bio":"I am a engineer who enjoys working on projects that make a difference in the world. I am passionate about sustainable energy and the environment. In my free time, I like to read and attend events related to my field."
+  }
+]
